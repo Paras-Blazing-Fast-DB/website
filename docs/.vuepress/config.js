@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'ShoppRe EXPEDITIONS',
-  description: 'Know more about ShoppRe',
+  title: 'PARAS - blazing fast db',
+  description: '',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -11,7 +11,7 @@ module.exports = {
     'social-share',
     {
       'sitemap': {
-        hostname: 'https://www.parkenconsulting.com'
+        hostname: 'https://parasconsulting.com'
       },
     }
   ],
