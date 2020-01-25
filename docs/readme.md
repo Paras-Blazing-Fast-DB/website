@@ -1,5 +1,7 @@
 # Welcome
 
+[Website](https://parastechnology.com) | [Improve this page](https://github.com/Paras-Technology-Consulting/website/edit/master/docs/readme.md)
+
 - MySQL Installation Script - Simple
 - MySQL Installation - Detailed
 - MySQL Schema Design
